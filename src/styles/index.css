@@ -1,0 +1,250 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 🔹 Scroll tipo TikTok/Reels */
+.scroll-container {
+  height: 100vh;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  touch-action: pan-y;
+}
+
+
+
+
+.viewport {
+  width: 100%;
+  height: 100vh;
+  max-width: 430px;
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+
+
+
+/* 🔹 Cada item ocupa toda la pantalla */
+.scroll-item {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+/* 🔹 Tarjeta del plato */
+.plato-card {
+  width: 100vw;
+  height: 100vh; /* ✅ CAMBIO aquí */
+  margin: 0;
+  border-radius: 0;
+  overflow: hidden;
+  position: relative;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end; /* ✅ Asegura que el contenido vaya hacia abajo */
+}
+
+
+/* 🔹 Contenedor de imagen o video */
+.imagen-container {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+/* 🔹 Imagen/video adaptado */
+.plato-imagen,
+
+video {
+  max-width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* 🔹 Info del plato */
+.plato-info {
+  position: absolute;
+  bottom: 70px; /* justo por encima de la barra */
+  z-index: 10;
+  left: 10px;
+  color: white;
+  background: rgba(0, 0, 0, 0.5);
+  padding: 10px;
+  border-radius: 8px;
+  max-width: 80%;
+}
+
+
+.progress-bar {
+  position: absolute;
+  bottom: 30px; /* justo encima de la nav bar */
+  z-index: 9;
+}
+
+/* 🔹 Botones de acción */
+.botones-laterales {
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.botones-laterales button {
+  background: rgba(255, 255, 255, 0.2);
+  border: none;
+  color: white;
+  padding: 10px;
+  border-radius: 50%;
+  cursor: pointer;
+  transition: background 0.3s ease-in-out, transform 0.1s ease-in-out;
+}
+
+.botones-laterales button:active {
+  transform: scale(0.9);
+}
+
+.botones-laterales button:hover {
+  background: rgba(255, 255, 255, 0.5);
+}
+
+/* 🔹 Flechas */
+.boton-navegacion {
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+}
+
+.boton-flecha {
+  background: rgba(0, 0, 0, 0.4);
+  border: none;
+  color: white;
+  padding: 5px 10px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+/* 🔹 Elimina scroll visible */
+.scroll-container::-webkit-scrollbar {
+  display: none;
+}
+
+/* 🔹 Notificación flotante */
+.fixed { position: fixed; }
+.top-5 { top: 1.25rem; }
+.left-5 { left: 1.25rem; }
+.bg-black { background-color: rgba(0, 0, 0, 0.7); }
+.text-white { color: white; }
+.rounded-lg { border-radius: 0.5rem; }
+.transition-opacity { transition: opacity 0.5s ease-in-out; }
+.opacity-0 { opacity: 0; }
+.opacity-100 { opacity: 1; }
+
+/* 🔹 Contador carrito */
+.relative { position: relative; }
+.absolute { position: absolute; }
+.bg-red-600 { background-color: red; }
+.text-xs { font-size: 0.75rem; }
+.font-bold { font-weight: bold; }
+.w-5, .h-5 { width: 1.25rem; height: 1.25rem; }
+.rounded-full { border-radius: 9999px; }
+.flex { display: flex; }
+.items-center { align-items: center; }
+.justify-center { justify-content: center; }
+
+/* ✅ Barra superior de categorías */
+.barra-categorias-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+  padding: 10px 0;
+  z-index: 20;
+}
+.barra-categorias-overlay button {
+  background: transparent;
+  color: white;
+  border: none;
+  font-weight: bold;
+  font-size: 0.85rem;
+  padding-bottom: 4px;
+  border-bottom: 2px solid transparent;
+}
+.barra-categorias-overlay button.active {
+  border-bottom-color: #00f2aa;
+}
+
+/* ✅ Barra inferior de navegación */
+.barra-inferior {
+  position: fixed;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 50;
+  background: #444;
+  width: 100vw;
+  max-width: 430px;
+  display: flex;
+  justify-content: space-around;
+  padding: 10px 0;
+  border-bottom-left-radius: 16px;
+  border-bottom-right-radius: 16px;
+}
+
+.barra-inferior button {
+  background: none;
+  border: none;
+  color: white;
+  font-size: 0.85rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  cursor: pointer;
+}
+
+.barra-inferior button:hover {
+  color: #00f2aa;
+}
+
+/* 🔧 Altura y fondo global responsivo */
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #908f8d;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.app-wrapper {
+  width: 100%;
+  max-width: 430px;         /* como un móvil */
+  height: 100dvh;
+  background-color: #908f8d;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.3); /* sombra para parecer móvil */
+  border-radius: 20px;                    /* bordes redondeados */
+}
+
+* {
+  box-sizing: border-box;
+}
+

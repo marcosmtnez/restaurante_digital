@@ -1,0 +1,1161 @@
+{
+  "__collections__": {
+    "restaurantes": {
+      "restaurante_ejemplo": {
+        "__collections__": {
+          "Entrantes": {
+            "1": {
+          "id": 1,
+          "nombre": "Bruschetta",
+          "precio": 5,
+          "video": "20250318_1429_Tomato Toast Animation_simple_compose_01jpmq3h22fy19zrfzy8ff7ydx.mp4",
+          "categoria": "Entrantes",
+          "traducciones": {
+            "es": {
+              "nombre": "Bruschetta",
+              "descripcion": "Pan tostado con tomate y albahaca.",
+              "detalles": "Un clásico entrante italiano servido con aceite de oliva virgen extra.",
+              "alergenos": "Contiene gluten.",
+              "calorias": "120 kcal"
+            },
+            "en": {
+              "nombre": "Bruschetta",
+              "descripcion": "Toasted bread with tomato and basil.",
+              "detalles": "A classic Italian starter with extra virgin olive oil.",
+              "alergenos": "Contains gluten.",
+              "calorias": "120 kcal"
+            },
+            "fr": {
+              "nombre": "Bruschetta",
+              "descripcion": "Pain grillé avec tomate et basilic.",
+              "detalles": "Entrée italienne classique à l'huile d'olive.",
+              "alergenos": "Contient du gluten.",
+              "calorias": "120 kcal"
+            },
+            "it": {
+              "nombre": "Bruschetta",
+              "descripcion": "Pane tostato con pomodoro e basilico.",
+              "detalles": "Antipasto classico con olio d'oliva extravergine.",
+              "alergenos": "Contiene glutine.",
+              "calorias": "120 kcal"
+            }
+          },
+              "__collections__": {
+                "likes": {},
+                "comentarios": {}
+              }
+            },
+            "2": {
+          "id": 2,
+          "nombre": "Ensalada Caprese",
+          "precio": 6,
+          "video": "20250318_1433_Animated Caprese Salad_simple_compose_01jpmqbk8yfc5tzfffsea2pg7c.mp4",
+          "categoria": "Entrantes",
+          "traducciones": {
+            "es": {
+              "nombre": "Ensalada Caprese",
+              "descripcion": "Tomate, mozzarella y albahaca con aceite de oliva.",
+              "detalles": "Fresca y ligera, perfecta para empezar.",
+              "alergenos": "Contiene lácteos.",
+              "calorias": "200 kcal"
+            },
+            "en": {
+              "nombre": "Caprese Salad",
+              "descripcion": "Tomato, mozzarella, and basil with olive oil.",
+              "detalles": "Fresh and light, perfect for starting.",
+              "alergenos": "Contains dairy.",
+              "calorias": "200 kcal"
+            },
+            "fr": {
+              "nombre": "Salade Caprese",
+              "descripcion": "Tomate, mozzarella et basilic avec huile d'olive.",
+              "detalles": "Légère et fraîche, parfaite en début de repas.",
+              "alergenos": "Contient des produits laitiers.",
+              "calorias": "200 kcal"
+            },
+            "it": {
+              "nombre": "Insalata Caprese",
+              "descripcion": "Pomodoro, mozzarella e basilico con olio d'oliva.",
+              "detalles": "Fresca e leggera, perfetta per iniziare.",
+              "alergenos": "Contiene latticini.",
+              "calorias": "200 kcal"
+            }
+          },
+              "__collections__": {
+                "likes": {},
+                "comentarios": {}
+              }
+            },
+            "3": {
+  "id": 3,
+  "nombre": "Gazpacho andaluz",
+  "precio": 4,
+  "video": "20250616_1138_Crafting Andalusian Gazpacho_simple_compose_01jxw1nky5f7ht70qegt4vgcta.mp4",
+  "categoria": "Entrantes",
+  "traducciones": {
+    "es": {
+      "nombre": "Gazpacho andaluz",
+      "descripcion": "Sopa fría de tomate, pimiento y pepino.",
+      "detalles": "Refrescante y tradicional, ideal para los días calurosos.",
+      "alergenos": "Sin alérgenos comunes.",
+      "calorias": "90 kcal"
+    },
+    "en": {
+      "nombre": "Andalusian Gazpacho",
+      "descripcion": "Cold soup with tomato, bell pepper and cucumber.",
+      "detalles": "Refreshing and traditional, perfect for hot days.",
+      "alergenos": "No common allergens.",
+      "calorias": "90 kcal"
+    },
+    "fr": {
+      "nombre": "Gaspacho andalou",
+      "descripcion": "Soupe froide à la tomate, poivron et concombre.",
+      "detalles": "Rafraîchissant et traditionnel, parfait pour les journées chaudes.",
+      "alergenos": "Sans allergènes courants.",
+      "calorias": "90 kcal"
+    },
+    "it": {
+      "nombre": "Gazpacho andaluso",
+      "descripcion": "Zuppa fredda di pomodoro, peperone e cetriolo.",
+      "detalles": "Rinfrescante e tradizionale, ideale per le giornate calde.",
+      "alergenos": "Senza allergeni comuni.",
+      "calorias": "90 kcal"
+    }
+  },
+  "__collections__": {
+    "likes": {},
+    "comentarios": {}
+  }
+},
+"4": {
+  "id": 4,
+  "nombre": "Croquetas de jamón",
+  "precio": 6,
+  "video": "20250616_1446_Gourmet Chef Mastery_simple_compose_01jxwcdtx8ecssp8zgvxxgyq61.mp4",
+  "categoria": "Entrantes",
+  "traducciones": {
+    "es": {
+      "nombre": "Croquetas de jamón",
+      "descripcion": "Deliciosas croquetas caseras rellenas de jamón ibérico.",
+      "detalles": "Crujientes por fuera, cremosas por dentro.",
+      "alergenos": "Contiene gluten, lactosa y huevo.",
+      "calorias": "210 kcal"
+    },
+    "en": {
+      "nombre": "Ham Croquettes",
+      "descripcion": "Delicious homemade croquettes filled with Iberian ham.",
+      "detalles": "Crispy outside, creamy inside.",
+      "alergenos": "Contains gluten, lactose and egg.",
+      "calorias": "210 kcal"
+    },
+    "fr": {
+      "nombre": "Croquettes au jambon",
+      "descripcion": "Délicieuses croquettes maison farcies au jambon ibérique.",
+      "detalles": "Croquantes à l’extérieur, fondantes à l’intérieur.",
+      "alergenos": "Contient du gluten, du lactose et de l’œuf.",
+      "calorias": "210 kcal"
+    },
+    "it": {
+      "nombre": "Crocchette di prosciutto",
+      "descripcion": "Crocchette fatte in casa con prosciutto iberico.",
+      "detalles": "Croccanti fuori, cremose dentro.",
+      "alergenos": "Contiene glutine, lattosio e uova.",
+      "calorias": "210 kcal"
+    }
+  },
+  "__collections__": {
+    "likes": {},
+    "comentarios": {}
+  }
+},
+"5": {
+  "id": 5,
+  "nombre": "Tartar de atún",
+  "precio": 9,
+  "video": "20250616_1447_Gourmet Tuna Tartare_simple_compose_01jxwcfnyvfyhvwv9tx1kdhk6c.mp4",
+  "categoria": "Entrantes",
+  "traducciones": {
+    "es": {
+      "nombre": "Tartar de atún",
+      "descripcion": "Dados de atún rojo con aguacate y soja.",
+      "detalles": "Aderezado con sésamo y aceite de sésamo tostado.",
+      "alergenos": "Contiene pescado y soja.",
+      "calorias": "180 kcal"
+    },
+    "en": {
+      "nombre": "Tuna Tartare",
+      "descripcion": "Diced red tuna with avocado and soy sauce.",
+      "detalles": "Seasoned with sesame and toasted sesame oil.",
+      "alergenos": "Contains fish and soy.",
+      "calorias": "180 kcal"
+    },
+    "fr": {
+      "nombre": "Tartare de thon",
+      "descripcion": "Dés de thon rouge avec avocat et sauce soja.",
+      "detalles": "Assaisonné au sésame et huile de sésame grillé.",
+      "alergenos": "Contient du poisson et du soja.",
+      "calorias": "180 kcal"
+    },
+    "it": {
+      "nombre": "Tartare di tonno",
+      "descripcion": "Tonno rosso a cubetti con avocado e salsa di soia.",
+      "detalles": "Condimento con sesamo e olio di sesamo tostato.",
+      "alergenos": "Contiene pesce e soia.",
+      "calorias": "180 kcal"
+    }
+  },
+  "__collections__": {
+    "likes": {},
+    "comentarios": {}
+  }
+},
+"6": {
+  "id": 6,
+  "nombre": "Hummus con pan de pita",
+  "precio": 6,
+  "video": "20250616_1510_Crafting Exquisite Hummus_simple_compose_01jxwds29wfcssa23m5f92pxzr.mp4",
+  "categoria": "Entrantes",
+  "traducciones": {
+    "es": {
+      "nombre": "Hummus con pan de pita",
+      "descripcion": "Crema de garbanzos con especias árabes.",
+      "detalles": "Servido con pan de pita tostado y aceite de oliva.",
+      "alergenos": "Contiene gluten y sésamo.",
+      "calorias": "220 kcal"
+    },
+    "en": {
+      "nombre": "Hummus with pita bread",
+      "descripcion": "Chickpea spread with Middle Eastern spices.",
+      "detalles": "Served with toasted pita bread and olive oil.",
+      "alergenos": "Contains gluten and sesame.",
+      "calorias": "220 kcal"
+    },
+    "fr": {
+      "nombre": "Houmous avec pain pita",
+      "descripcion": "Purée de pois chiches aux épices orientales.",
+      "detalles": "Servi avec pain pita grillé et huile d'olive.",
+      "alergenos": "Contient du gluten et du sésame.",
+      "calorias": "220 kcal"
+    },
+    "it": {
+      "nombre": "Hummus con pane pita",
+      "descripcion": "Crema di ceci con spezie orientali.",
+      "detalles": "Servito con pane pita tostato e olio d'oliva.",
+      "alergenos": "Contiene glutine e sesamo.",
+      "calorias": "220 kcal"
+    }
+  },
+  "__collections__": {
+    "likes": {},
+    "comentarios": {}
+  }
+},
+"7": {
+  "id": 7,
+  "nombre": "Rollitos de primavera vegetales",
+  "precio": 5,
+  "video": "20250616_1610_Chef's Spring Roll Mastery_simple_compose_01jxwh6qf3exnt4rmdhskg5dn8.mp4",
+  "categoria": "Entrantes",
+  "traducciones": {
+    "es": {
+      "nombre": "Rollitos de primavera vegetales",
+      "descripcion": "Crujientes rollitos rellenos de verduras.",
+      "detalles": "Acompañados de salsa agridulce.",
+      "alergenos": "Contiene gluten y soja.",
+      "calorias": "190 kcal"
+    },
+    "en": {
+      "nombre": "Vegetable spring rolls",
+      "descripcion": "Crispy rolls stuffed with vegetables.",
+      "detalles": "Served with sweet and sour sauce.",
+      "alergenos": "Contains gluten and soy.",
+      "calorias": "190 kcal"
+    },
+    "fr": {
+      "nombre": "Rouleaux de printemps végétariens",
+      "descripcion": "Rouleaux croustillants farcis de légumes.",
+      "detalles": "Servis avec une sauce aigre-douce.",
+      "alergenos": "Contient du gluten et du soja.",
+      "calorias": "190 kcal"
+    },
+    "it": {
+      "nombre": "Involtini primavera vegetariani",
+      "descripcion": "Involtini croccanti ripieni di verdure.",
+      "detalles": "Serviti con salsa agrodolce.",
+      "alergenos": "Contiene glutine e soia.",
+      "calorias": "190 kcal"
+    }
+  },
+  "__collections__": {
+    "likes": {},
+    "comentarios": {}
+  }
+}
+          },
+          "Platos principales": {
+            "8": {
+    "id": 8,
+    "nombre": "Pasta Carbonara",
+    "precio": 12,
+    "video": "20250318_1448_Carbonara Cooking Animation_simple_compose_01jpmr5rkmeegb6s34w780vj7b.mp4",
+    "categoria": "Platos principales",
+    "traducciones": {
+      "es": {
+        "descripcion": "Espaguetis con salsa de huevo y panceta.",
+        "detalles": "Una receta tradicional romana con huevo, queso y panceta.",
+        "alergenos": "Contiene gluten, huevos y lácteos.",
+        "calorias": "600 kcal"
+      },
+      "en": {
+        "descripcion": "Spaghetti with egg sauce and pancetta.",
+        "detalles": "Traditional Roman recipe with eggs, cheese, and pancetta.",
+        "alergenos": "Contains gluten, eggs and dairy.",
+        "calorias": "600 kcal"
+      },
+      "fr": {
+        "descripcion": "Spaghetti avec sauce aux œufs et pancetta.",
+        "detalles": "Recette romaine traditionnelle.",
+        "alergenos": "Contient du gluten, des œufs et des produits laitiers.",
+        "calorias": "600 kcal"
+      },
+      "it": {
+        "descripcion": "Spaghetti con salsa all'uovo e pancetta.",
+        "detalles": "Ricetta romana con uova, formaggio e pancetta.",
+        "alergenos": "Contiene glutine, uova e latticini.",
+        "calorias": "600 kcal"
+      }
+    },
+              "__collections__": {
+                "likes": {},
+                "comentarios": {}
+              }
+            },
+            "9": {
+    "id": 9,
+    "nombre": "Salmón a la parrilla",
+    "precio": 18,
+    "video": "20250318_1441_Salmon Cooking Animation_simple_compose_01jpmqstpres186g48kgke933z.mp4",
+    "categoria": "Platos principales",
+    "traducciones": {
+      "es": {
+        "descripcion": "Salmón con verduras asadas y limón.",
+        "detalles": "Filete de salmón jugoso acompañado de vegetales frescos.",
+        "alergenos": "Contiene pescado.",
+        "calorias": "450 kcal"
+      },
+      "en": {
+        "descripcion": "Salmon with roasted vegetables and lemon.",
+        "detalles": "Juicy salmon fillet with fresh vegetables.",
+        "alergenos": "Contains fish.",
+        "calorias": "450 kcal"
+      },
+      "fr": {
+        "descripcion": "Saumon avec légumes rôtis et citron.",
+        "detalles": "Filet de saumon servi avec des légumes grillés.",
+        "alergenos": "Contient du poisson.",
+        "calorias": "450 kcal"
+      },
+      "it": {
+        "descripcion": "Salmone con verdure arrosto e limone.",
+        "detalles": "Filetto di salmone con verdure fresche.",
+        "alergenos": "Contiene pesce.",
+        "calorias": "450 kcal"
+      }
+    },
+              "__collections__": {
+                "likes": {},
+                "comentarios": {}
+              }
+            },
+
+            "10": {
+  "id": 10,
+  "nombre": "Paella de mariscos",
+  "precio": 16,
+  "video": "20250616_1633_Gourmet Paella Creation_simple_compose_01jxwjgy73em9s3jpg7e4g99sc.mp4",
+  "categoria": "Platos principales",
+  "traducciones": {
+    "es": {
+      "nombre": "Paella de mariscos",
+      "descripcion": "Arroz tradicional con calamares, mejillones y gambas.",
+      "detalles": "Un plato emblemático de la cocina española.",
+      "alergenos": "Contiene marisco y moluscos.",
+      "calorias": "620 kcal"
+    },
+    "en": {
+      "nombre": "Seafood Paella",
+      "descripcion": "Traditional rice with squid, mussels, and shrimp.",
+      "detalles": "A signature dish of Spanish cuisine.",
+      "alergenos": "Contains shellfish and mollusks.",
+      "calorias": "620 kcal"
+    },
+    "fr": {
+      "nombre": "Paella de fruits de mer",
+      "descripcion": "Riz traditionnel avec calamars, moules et crevettes.",
+      "detalles": "Un plat emblématique de la cuisine espagnole.",
+      "alergenos": "Contient des crustacés et mollusques.",
+      "calorias": "620 kcal"
+    },
+    "it": {
+      "nombre": "Paella di mare",
+      "descripcion": "Riso tradizionale con calamari, cozze e gamberi.",
+      "detalles": "Un piatto iconico della cucina spagnola.",
+      "alergenos": "Contiene crostacei e molluschi.",
+      "calorias": "620 kcal"
+    }
+  },
+  "__collections__": {
+    "likes": {},
+    "comentarios": {}
+  }
+},
+"11": {
+  "id": 11,
+  "nombre": "Raviolis de espinacas y ricotta",
+  "precio": 14,
+  "video": "20250616_1654_Crafting Gourmet Ravioli_simple_compose_01jxwkrnwtfm7sq3vz0b9w7zb6.mp4",
+  "categoria": "Platos principales",
+  "traducciones": {
+    "es": {
+      "nombre": "Raviolis de espinacas y ricotta",
+      "descripcion": "Pasta rellena artesanal con espinacas frescas y queso ricotta.",
+      "detalles": "Servido con salsa de mantequilla y salvia.",
+      "alergenos": "Contiene gluten, lácteos y huevo.",
+      "calorias": "510 kcal"
+    },
+    "en": {
+      "nombre": "Spinach and Ricotta Ravioli",
+      "descripcion": "Handmade pasta filled with fresh spinach and ricotta cheese.",
+      "detalles": "Served with butter and sage sauce.",
+      "alergenos": "Contains gluten, dairy, and egg.",
+      "calorias": "510 kcal"
+    },
+    "fr": {
+      "nombre": "Raviolis aux épinards et ricotta",
+      "descripcion": "Pâtes artisanales farcies aux épinards frais et à la ricotta.",
+      "detalles": "Servies avec une sauce au beurre et à la sauge.",
+      "alergenos": "Contient du gluten, des produits laitiers et des œufs.",
+      "calorias": "510 kcal"
+    },
+    "it": {
+      "nombre": "Ravioli di spinaci e ricotta",
+      "descripcion": "Pasta fatta a mano ripiena di spinaci freschi e ricotta.",
+      "detalles": "Servita con salsa al burro e salvia.",
+      "alergenos": "Contiene glutine, latticini e uova.",
+      "calorias": "510 kcal"
+    }
+  },
+  "__collections__": {
+    "likes": {},
+    "comentarios": {}
+  }
+},
+"12": {
+  "id": 12,
+  "nombre": "Pollo al curry",
+  "precio": 13,
+  "video": "20250616_1714_Gourmet Kitchen Mastery_simple_compose_01jxwmx1gwf3gbdpayrzm0eaer.mp4",
+  "categoria": "Platos principales",
+  "traducciones": {
+    "es": {
+      "nombre": "Pollo al curry",
+      "descripcion": "Tierno pollo cocinado en una cremosa salsa de curry.",
+      "detalles": "Acompañado de arroz basmati y cilantro fresco.",
+      "alergenos": "Contiene lácteos.",
+      "calorias": "560 kcal"
+    },
+    "en": {
+      "nombre": "Chicken Curry",
+      "descripcion": "Tender chicken cooked in a creamy curry sauce.",
+      "detalles": "Served with basmati rice and fresh cilantro.",
+      "alergenos": "Contains dairy.",
+      "calorias": "560 kcal"
+    },
+    "fr": {
+      "nombre": "Poulet au curry",
+      "descripcion": "Poulet tendre mijoté dans une sauce curry crémeuse.",
+      "detalles": "Accompagné de riz basmati et de coriandre fraîche.",
+      "alergenos": "Contient des produits laitiers.",
+      "calorias": "560 kcal"
+    },
+    "it": {
+      "nombre": "Pollo al curry",
+      "descripcion": "Pollo tenero cotto in una salsa cremosa al curry.",
+      "detalles": "Servito con riso basmati e coriandolo fresco.",
+      "alergenos": "Contiene latticini.",
+      "calorias": "560 kcal"
+    }
+  },
+  "__collections__": {
+    "likes": {},
+    "comentarios": {}
+  }
+}
+          }, 
+          "Wraps y Bocadillos":{
+            "13": {
+  "id": 13,
+  "nombre": "Wrap de Pollo Mediterráneo",
+  "precio": 7,
+  "video": "20250616_1735_Mediterranean Culinary Artistry_simple_compose_01jxwp3cm0fhc8knxx5683vrq9",
+  "categoria": "Wraps & Bocadillos",
+  "traducciones": {
+    "es": {
+      "nombre": "Wrap de Pollo Mediterráneo",
+      "descripcion": "Tortilla rellena de pollo a la plancha, verduras frescas y salsa de yogur.",
+      "detalles": "Una opción ligera pero sabrosa, ideal para el almuerzo.",
+      "alergenos": "Contiene gluten y lácteos.",
+      "calorias": "320 kcal"
+    },
+    "en": {
+      "nombre": "Mediterranean Chicken Wrap",
+      "descripcion": "Grilled chicken, fresh veggies, and yogurt sauce wrapped in a tortilla.",
+      "detalles": "Light yet flavorful. Perfect for lunch.",
+      "alergenos": "Contains gluten and dairy.",
+      "calorias": "320 kcal"
+    },
+    "fr": {
+      "nombre": "Wrap de Poulet Méditerranéen",
+      "descripcion": "Tortilla garnie de poulet grillé, légumes frais et sauce au yaourt.",
+      "detalles": "Léger et savoureux, idéal pour le déjeuner.",
+      "alergenos": "Contient du gluten et des produits laitiers.",
+      "calorias": "320 kcal"
+    },
+    "it": {
+      "nombre": "Wrap di Pollo Mediterraneo",
+      "descripcion": "Tortilla con pollo alla griglia, verdure fresche e salsa allo yogurt.",
+      "detalles": "Leggero ma gustoso, perfetto per pranzo.",
+      "alergenos": "Contiene glutine e latticini.",
+      "calorias": "320 kcal"
+    }
+  },
+  "__collections__": {
+    "likes": {},
+    "comentarios": {}
+  }
+},
+"14": {
+  "id": 14,
+  "nombre": "Bocadillo de Jamón Ibérico",
+  "precio": 6,
+  "video": "20250616_1752_Gourmet Jamón Bocadillo_simple_compose_01jxwq1ghwfx7s000ayjj6vjmw.mp4",
+  "categoria": "Wraps & Bocadillos",
+  "traducciones": {
+    "es": {
+      "nombre": "Bocadillo de Jamón Ibérico",
+      "descripcion": "Pan rústico con jamón ibérico y tomate rallado.",
+      "detalles": "Un clásico español con sabor auténtico.",
+      "alergenos": "Contiene gluten.",
+      "calorias": "250 kcal"
+    },
+    "en": {
+      "nombre": "Iberian Ham Sandwich",
+      "descripcion": "Rustic bread with Iberian ham and grated tomato.",
+      "detalles": "A Spanish classic with authentic flavor.",
+      "alergenos": "Contains gluten.",
+      "calorias": "250 kcal"
+    },
+    "fr": {
+      "nombre": "Sandwich au Jambon Ibérique",
+      "descripcion": "Pain rustique avec jambon ibérique et tomate râpée.",
+      "detalles": "Un classique espagnol au goût authentique.",
+      "alergenos": "Contient du gluten.",
+      "calorias": "250 kcal"
+    },
+    "it": {
+      "nombre": "Panino con Prosciutto Ibérico",
+      "descripcion": "Pane rustico con prosciutto iberico e pomodoro grattugiato.",
+      "detalles": "Un classico spagnolo dal sapore autentico.",
+      "alergenos": "Contiene glutine.",
+      "calorias": "250 kcal"
+    }
+  },
+  "__collections__": {
+    "likes": {},
+    "comentarios": {}
+  }
+},
+"15": {
+  "id": 15,
+  "nombre": "Wrap Vegetariano",
+  "precio": 6,
+  "video": "20250616_1827_Gourmet Vegetarian Creation_simple_compose_01jxws1rctfxtapd130t9qqapr.mp4",
+  "categoria": "Wraps & Bocadillos",
+  "traducciones": {
+    "es": {
+      "nombre": "Wrap Vegetariano",
+      "descripcion": "Tortilla rellena de verduras frescas, hummus y queso feta.",
+      "detalles": "Una opción ligera, sabrosa y saludable.",
+      "alergenos": "Contiene gluten y lácteos.",
+      "calorias": "230 kcal"
+    },
+    "en": {
+      "nombre": "Vegetarian Wrap",
+      "descripcion": "Tortilla filled with fresh vegetables, hummus and feta cheese.",
+      "detalles": "A light, tasty and healthy option.",
+      "alergenos": "Contains gluten and dairy.",
+      "calorias": "230 kcal"
+    },
+    "fr": {
+      "nombre": "Wrap Végétarien",
+      "descripcion": "Tortilla garnie de légumes frais, houmous et feta.",
+      "detalles": "Une option légère, savoureuse et saine.",
+      "alergenos": "Contient du gluten et des produits laitiers.",
+      "calorias": "230 kcal"
+    },
+    "it": {
+      "nombre": "Wrap Vegetariano",
+      "descripcion": "Tortilla con verdure fresche, hummus e formaggio feta.",
+      "detalles": "Un'opzione leggera, gustosa e salutare.",
+      "alergenos": "Contiene glutine e latticini.",
+      "calorias": "230 kcal"
+    }
+  },
+  "__collections__": {
+    "likes": {},
+    "comentarios": {}
+  }
+},
+"16": {
+  "id": 16,
+  "nombre": "Wrap de Pollo con Guacamole",
+  "precio": 7,
+  "video": "20250616_1836_Gourmet Chicken Wrap Creation_simple_compose_01jxwsjd4jf8s93xkykhwkexgj.mp4",
+  "categoria": "Wraps & Bocadillos",
+  "traducciones": {
+    "es": {
+      "nombre": "Wrap de Pollo con Guacamole",
+      "descripcion": "Pollo a la plancha, guacamole, lechuga y tomate en tortilla.",
+      "detalles": "Delicioso y fresco, ideal para cualquier momento del día.",
+      "alergenos": "Contiene gluten.",
+      "calorias": "310 kcal"
+    },
+    "en": {
+      "nombre": "Chicken Guacamole Wrap",
+      "descripcion": "Grilled chicken, guacamole, lettuce and tomato in a wrap.",
+      "detalles": "Delicious and fresh, perfect for any time of day.",
+      "alergenos": "Contains gluten.",
+      "calorias": "310 kcal"
+    },
+    "fr": {
+      "nombre": "Wrap au Poulet et Guacamole",
+      "descripcion": "Poulet grillé, guacamole, laitue et tomate en tortilla.",
+      "detalles": "Délicieux et frais, idéal à tout moment de la journée.",
+      "alergenos": "Contient du gluten.",
+      "calorias": "310 kcal"
+    },
+    "it": {
+      "nombre": "Wrap di Pollo con Guacamole",
+      "descripcion": "Pollo grigliato, guacamole, lattuga e pomodoro in una tortilla.",
+      "detalles": "Delizioso e fresco, perfetto in qualsiasi momento della giornata.",
+      "alergenos": "Contiene glutine.",
+      "calorias": "310 kcal"
+    }
+  },
+  "__collections__": {
+    "likes": {},
+    "comentarios": {}
+  }
+},
+
+"17": {
+  "id": 17,
+  "nombre": "Quesadilla de queso y guacamole",
+  "precio": 6,
+  "video": "20250616_1852_Masterful Chef at Work_simple_compose_01jxwtfygje919w1dqgkbyvedk.mp4",
+  "categoria": "Wraps y bocados rápidos",
+  "traducciones": {
+    "es": {
+      "nombre": "Quesadilla de queso y guacamole",
+      "descripcion": "Tortilla de trigo rellena de queso fundido, acompañada de guacamole.",
+      "detalles": "Crujiente por fuera y suave por dentro. Servida caliente.",
+      "alergenos": "Contiene gluten y lácteos.",
+      "calorias": "340 kcal"
+    },
+    "en": {
+      "nombre": "Cheese Quesadilla with Guacamole",
+      "descripcion": "Wheat tortilla filled with melted cheese, served with guacamole.",
+      "detalles": "Crispy on the outside, soft inside. Served warm.",
+      "alergenos": "Contains gluten and dairy.",
+      "calorias": "340 kcal"
+    },
+    "fr": {
+      "nombre": "Quesadilla au fromage et guacamole",
+      "descripcion": "Tortilla de blé garnie de fromage fondu, accompagnée de guacamole.",
+      "detalles": "Croquante à l'extérieur, fondante à l'intérieur.",
+      "alergenos": "Contient du gluten et des produits laitiers.",
+      "calorias": "340 kcal"
+    },
+    "it": {
+      "nombre": "Quesadilla al formaggio e guacamole",
+      "descripcion": "Tortilla di grano ripiena di formaggio fuso, servita con guacamole.",
+      "detalles": "Croccante fuori, morbida dentro. Servita calda.",
+      "alergenos": "Contiene glutine e latticini.",
+      "calorias": "340 kcal"
+    }
+  },
+  "__collections__": {
+    "likes": {},
+    "comentarios": {}
+  }
+}
+
+          }, "Especialidades Internacionales":{
+            "18": {
+  "id": 18,
+  "nombre": "Pad Thai",
+  "precio": 11,
+  "video": "20250616_1901_Gourmet Cooking Artistry_simple_compose_01jxwv0a54fn692jrjct7g58pf.mp4",
+  "categoria": "Especialidades internacionales",
+  "traducciones": {
+    "es": {
+      "nombre": "Pad Thai",
+      "descripcion": "Fideos salteados tailandeses con salsa de tamarindo, huevo y verduras.",
+      "detalles": "Una receta tradicional tailandesa con sabores agridulces.",
+      "alergenos": "Contiene cacahuetes, soja y huevo.",
+      "calorias": "420 kcal"
+    },
+    "en": {
+      "nombre": "Pad Thai",
+      "descripcion": "Stir-fried Thai noodles with tamarind sauce, egg, and vegetables.",
+      "detalles": "A traditional Thai recipe with sweet and sour flavors.",
+      "alergenos": "Contains peanuts, soy, and egg.",
+      "calorias": "420 kcal"
+    },
+    "fr": {
+      "nombre": "Pad Thaï",
+      "descripcion": "Nouilles sautées thaïlandaises avec sauce tamarin, œuf et légumes.",
+      "detalles": "Une recette thaïlandaise traditionnelle aux saveurs sucrées et acidulées.",
+      "alergenos": "Contient des arachides, du soja et des œufs.",
+      "calorias": "420 kcal"
+    },
+    "it": {
+      "nombre": "Pad Thai",
+      "descripcion": "Noodles saltati thailandesi con salsa di tamarindo, uovo e verdure.",
+      "detalles": "Ricetta tradizionale thailandese con sapori agrodolci.",
+      "alergenos": "Contiene arachidi, soia e uova.",
+      "calorias": "420 kcal"
+    }
+  },
+  "__collections__": {
+    "likes": {},
+    "comentarios": {}
+  }
+},
+
+"19": {
+  "id": 19,
+  "nombre": "Pizza Margarita",
+  "precio": 9,
+  "video": "20250616_1913_Creating Gourmet Margherita_simple_compose_01jxwvpr5geh1sttpnwyq1b6nw.mp4",
+  "categoria": "Especialidades internacionales",
+  "traducciones": {
+    "es": {
+      "nombre": "Pizza Margarita",
+      "descripcion": "Pizza tradicional italiana con tomate, mozzarella y albahaca.",
+      "detalles": "Base crujiente horneada con ingredientes frescos y aromáticos.",
+      "alergenos": "Contiene gluten y lactosa.",
+      "calorias": "480 kcal"
+    },
+    "en": {
+      "nombre": "Margherita Pizza",
+      "descripcion": "Classic Italian pizza with tomato, mozzarella, and basil.",
+      "detalles": "Crispy baked base with fresh and aromatic ingredients.",
+      "alergenos": "Contains gluten and lactose.",
+      "calorias": "480 kcal"
+    },
+    "fr": {
+      "nombre": "Pizza Margherita",
+      "descripcion": "Pizza italienne traditionnelle avec tomate, mozzarella et basilic.",
+      "detalles": "Base croustillante cuite au four avec des ingrédients frais.",
+      "alergenos": "Contient du gluten et du lactose.",
+      "calorias": "480 kcal"
+    },
+    "it": {
+      "nombre": "Pizza Margherita",
+      "descripcion": "Pizza classica italiana con pomodoro, mozzarella e basilico.",
+      "detalles": "Base croccante cotta al forno con ingredienti freschi.",
+      "alergenos": "Contiene glutine e lattosio.",
+      "calorias": "480 kcal"
+    }
+  },
+  "__collections__": {
+    "likes": {},
+    "comentarios": {}
+  }
+},
+
+"20": {
+  "id": 20,
+  "nombre": "Samosas de verduras",
+  "precio": 6,
+  "video": "20250616_1924_Samosa Mastery in Action_simple_compose_01jxwwafwgffssw6ff9h9b8cnb.mp4",
+  "categoria": "Especialidades internacionales",
+  "traducciones": {
+    "es": {
+      "nombre": "Samosas de verduras",
+      "descripcion": "Triángulos crujientes rellenos de verduras especiadas.",
+      "detalles": "Receta tradicional del sur de Asia servida con chutney de menta.",
+      "alergenos": "Puede contener gluten.",
+      "calorias": "210 kcal"
+    },
+    "en": {
+      "nombre": "Vegetable Samosas",
+      "descripcion": "Crispy triangles filled with spiced vegetables.",
+      "detalles": "Traditional South Asian recipe served with mint chutney.",
+      "alergenos": "May contain gluten.",
+      "calorias": "210 kcal"
+    },
+    "fr": {
+      "nombre": "Samosas aux légumes",
+      "descripcion": "Triangles croustillants farcis de légumes épicés.",
+      "detalles": "Recette traditionnelle sud-asiatique servie avec chutney à la menthe.",
+      "alergenos": "Peut contenir du gluten.",
+      "calorias": "210 kcal"
+    },
+    "it": {
+      "nombre": "Samosa di verdure",
+      "descripcion": "Triangoli croccanti ripieni di verdure speziate.",
+      "detalles": "Ricetta tradizionale del sud Asia con chutney alla menta.",
+      "alergenos": "Può contenere glutine.",
+      "calorias": "210 kcal"
+    }
+  },
+  "__collections__": {
+    "likes": {},
+    "comentarios": {}
+  }
+},
+"21": {
+  "id": 21,
+  "nombre": "Curry de garbanzos",
+  "precio": 9,
+  "video": "20250616_1936_Gourmet Chickpea Masterpiece_simple_compose_01jxwwzrynemnsqtmqznbak3qv.mp4",
+  "categoria": "Especialidades internacionales",
+  "traducciones": {
+    "es": {
+      "nombre": "Curry de garbanzos",
+      "descripcion": "Plato vegano con garbanzos en una salsa de curry especiada.",
+      "detalles": "Cocinado a fuego lento con leche de coco y especias indias.",
+      "alergenos": "Contiene coco.",
+      "calorias": "320 kcal"
+    },
+    "en": {
+      "nombre": "Chickpea Curry",
+      "descripcion": "Vegan dish with chickpeas in a spiced curry sauce.",
+      "detalles": "Slow-cooked with coconut milk and Indian spices.",
+      "alergenos": "Contains coconut.",
+      "calorias": "320 kcal"
+    },
+    "fr": {
+      "nombre": "Curry de pois chiches",
+      "descripcion": "Plat végétalien aux pois chiches dans une sauce au curry épicée.",
+      "detalles": "Cuit lentement avec du lait de coco et des épices indiennes.",
+      "alergenos": "Contient de la noix de coco.",
+      "calorias": "320 kcal"
+    },
+    "it": {
+      "nombre": "Curry di ceci",
+      "descripcion": "Piatto vegano con ceci in salsa al curry speziata.",
+      "detalles": "Cotto lentamente con latte di cocco e spezie indiane.",
+      "alergenos": "Contiene cocco.",
+      "calorias": "320 kcal"
+    }
+  },
+  "__collections__": {
+    "likes": {},
+    "comentarios": {}
+  }
+}
+          },
+          "Postres": {
+            "22": {
+    "id": 22,
+    "nombre": "Tarta de chocolate",
+    "precio": 7,
+    "video": "20250318_1439_Chocolate Lava Cake Animation_simple_compose_01jpmqmthze91bk7xx0xcqa3qs.mp4",
+    "categoria": "Postres",
+    "traducciones": {
+      "es": {
+        "descripcion": "Bizcocho de chocolate con centro líquido y helado.",
+        "detalles": "Un postre indulgente servido caliente con helado.",
+        "alergenos": "Contiene gluten, lácteos y huevos.",
+        "calorias": "520 kcal"
+      },
+      "en": {
+        "descripcion": "Chocolate cake with molten center and ice cream.",
+        "detalles": "Indulgent dessert served warm with ice cream.",
+        "alergenos": "Contains gluten, dairy and eggs.",
+        "calorias": "520 kcal"
+      },
+      "fr": {
+        "descripcion": "Gâteau au chocolat avec cœur fondant et glace.",
+        "detalles": "Dessert fondant servi chaud avec de la glace.",
+        "alergenos": "Contient du gluten, produits laitiers et œufs.",
+        "calorias": "520 kcal"
+      },
+      "it": {
+        "descripcion": "Torta al cioccolato con cuore fuso e gelato.",
+        "detalles": "Dessert caldo e goloso servito con gelato.",
+        "alergenos": "Contiene glutine, latticini e uova.",
+        "calorias": "520 kcal"
+      }
+    },
+              "__collections__": {
+                "likes": {},
+                "comentarios": {}
+              }
+            },
+
+            "23": {
+  "id": 23,
+  "nombre": "Tiramisú",
+  "precio": 6,
+  "video": "20250616_1952_Artistic Tiramisu Creation_simple_compose_01jxwxyg17fb2bd8swyz5462rj.mp4",
+  "categoria": "Postres",
+  "traducciones": {
+    "es": {
+      "nombre": "Tiramisú",
+      "descripcion": "Clásico postre italiano con capas de café y crema.",
+      "detalles": "Bizcocho empapado en café con crema de mascarpone y cacao.",
+      "alergenos": "Contiene huevo, lácteos y gluten.",
+      "calorias": "410 kcal"
+    },
+    "en": {
+      "nombre": "Tiramisu",
+      "descripcion": "Classic Italian dessert with layers of coffee and cream.",
+      "detalles": "Sponge soaked in coffee with mascarpone cream and cocoa.",
+      "alergenos": "Contains egg, dairy and gluten.",
+      "calorias": "410 kcal"
+    },
+    "fr": {
+      "nombre": "Tiramisu",
+      "descripcion": "Dessert italien classique avec café et crème.",
+      "detalles": "Génoise au café avec crème mascarpone et cacao.",
+      "alergenos": "Contient œuf, produits laitiers et gluten.",
+      "calorias": "410 kcal"
+    },
+    "it": {
+      "nombre": "Tiramisù",
+      "descripcion": "Dolce italiano classico con caffè e crema.",
+      "detalles": "Pan di spagna al caffè con crema al mascarpone e cacao.",
+      "alergenos": "Contiene uova, latticini e glutine.",
+      "calorias": "410 kcal"
+    }
+  },
+  "__collections__": {
+    "likes": {},
+    "comentarios": {}
+  }
+},
+
+"24": {
+  "id": 24,
+  "nombre": "Torrija caramelizada",
+  "precio": 5,
+  "video": "20250616_2000_Gourmet French Toast_simple_compose_01jxwybt78f5h82wvgtyr39p0j",
+  "categoria": "Postres",
+  "traducciones": {
+    "es": {
+      "nombre": "Torrija caramelizada",
+      "descripcion": "Pan empapado en leche y huevo, caramelizado al momento.",
+      "detalles": "Servido caliente con canela y toque de miel.",
+      "alergenos": "Contiene gluten, huevo y lactosa.",
+      "calorias": "320 kcal"
+    },
+    "en": {
+      "nombre": "Caramelized French Toast",
+      "descripcion": "Bread soaked in milk and egg, caramelized on the spot.",
+      "detalles": "Served warm with cinnamon and a touch of honey.",
+      "alergenos": "Contains gluten, egg, and lactose.",
+      "calorias": "320 kcal"
+    },
+    "fr": {
+      "nombre": "Pain perdu caramélisé",
+      "descripcion": "Pain trempé dans du lait et des œufs, caramélisé à la minute.",
+      "detalles": "Servi chaud avec de la cannelle et une touche de miel.",
+      "alergenos": "Contient gluten, œuf et lactose.",
+      "calorias": "320 kcal"
+    },
+    "it": {
+      "nombre": "Torrija caramellata",
+      "descripcion": "Pane imbevuto di latte e uova, caramellato al momento.",
+      "detalles": "Servito caldo con cannella e miele.",
+      "alergenos": "Contiene glutine, uovo e lattosio.",
+      "calorias": "320 kcal"
+    }
+  },
+  "__collections__": {
+    "likes": {},
+    "comentarios": {}
+  }
+},
+"25": {
+  "id": 25,
+  "nombre": "Helado de vainilla y nueces",
+  "precio": 4,
+  "video": "20250616_2011_Gourmet Ice Cream Creation_simple_compose_01jxwz0abxfv39jvvdqnk8xtfg.mp4",
+  "categoria": "Postres",
+  "traducciones": {
+    "es": {
+      "nombre": "Helado de vainilla y nueces",
+      "descripcion": "Helado cremoso con sabor a vainilla natural y trozos de nuez.",
+      "detalles": "Elaborado de forma artesanal sin conservantes.",
+      "alergenos": "Contiene frutos secos y lactosa.",
+      "calorias": "250 kcal"
+    },
+    "en": {
+      "nombre": "Vanilla Walnut Ice Cream",
+      "descripcion": "Creamy ice cream with natural vanilla flavor and walnut pieces.",
+      "detalles": "Handcrafted without preservatives.",
+      "alergenos": "Contains nuts and lactose.",
+      "calorias": "250 kcal"
+    },
+    "fr": {
+      "nombre": "Glace vanille et noix",
+      "descripcion": "Glace onctueuse à la vanille naturelle et éclats de noix.",
+      "detalles": "Préparée de manière artisanale sans conservateurs.",
+      "alergenos": "Contient fruits à coque et lactose.",
+      "calorias": "250 kcal"
+    },
+    "it": {
+      "nombre": "Gelato alla vaniglia e noci",
+      "descripcion": "Gelato cremoso alla vaniglia naturale con pezzi di noce.",
+      "detalles": "Preparato artigianalmente senza conservanti.",
+      "alergenos": "Contiene frutta secca e lattosio.",
+      "calorias": "250 kcal"
+    }
+  },
+  "__collections__": {
+    "likes": {},
+    "comentarios": {}
+  }
+}
+
+          },
+          "Bebidas": {
+            "26": {
+    "id": 26,
+    "nombre": "Zumo de naranja",
+    "precio": 3,
+    "video": "20250318_1443_Orange Juice Animation_simple_compose_01jpmqwvkvf14srxeycfr4yc57.mp4",
+    "categoria": "Bebidas",
+    "traducciones": {
+      "es": {
+        "descripcion": "Jugo natural de naranja recién exprimido.",
+        "detalles": "Bebida refrescante y rica en vitamina C.",
+        "alergenos": "Sin alérgenos.",
+        "calorias": "80 kcal"
+      },
+      "en": {
+        "descripcion": "Freshly squeezed orange juice.",
+        "detalles": "Refreshing drink rich in vitamin C.",
+        "alergenos": "No allergens.",
+        "calorias": "80 kcal"
+      },
+      "fr": {
+        "descripcion": "Jus d'orange fraîchement pressé.",
+        "detalles": "Boisson fraîche riche en vitamine C.",
+        "alergenos": "Sans allergènes.",
+        "calorias": "80 kcal"
+      },
+      "it": {
+        "descripcion": "Succo d'arancia appena spremuto.",
+        "detalles": "Bevanda fresca ricca di vitamina C.",
+        "alergenos": "Senza allergeni.",
+        "calorias": "80 kcal"
+      }
+    },
+              "__collections__": {
+                "likes": {},
+                "comentarios": {}
+              }
+            },
+            "27": {
+  "id": 27,
+  "nombre": "Margarita clásica",
+  "precio": 6,
+  "video": "20250616_2033_Crafting a Classic Margarita_simple_compose_01jxx08ad3evkb8ghrm8q0b6qw.mp4",
+  "categoria": "Bebidas",
+  "traducciones": {
+    "es": {
+      "nombre": "Margarita clásica",
+      "descripcion": "Cóctel refrescante de tequila, lima y licor de naranja.",
+      "detalles": "Servido con sal en el borde del vaso y hielo.",
+      "alergenos": "Contiene alcohol.",
+      "calorias": "180 kcal"
+    },
+    "en": {
+      "nombre": "Classic Margarita",
+      "descripcion": "Refreshing cocktail with tequila, lime, and orange liqueur.",
+      "detalles": "Served with salt rim and ice.",
+      "alergenos": "Contains alcohol.",
+      "calorias": "180 kcal"
+    },
+    "fr": {
+      "nombre": "Margarita classique",
+      "descripcion": "Cocktail rafraîchissant à base de tequila, citron vert et liqueur d’orange.",
+      "detalles": "Servi avec un bord salé et des glaçons.",
+      "alergenos": "Contient de l’alcool.",
+      "calorias": "180 kcal"
+    },
+    "it": {
+      "nombre": "Margarita classica",
+      "descripcion": "Cocktail rinfrescante con tequila, lime e liquore all’arancia.",
+      "detalles": "Servito con bordo salato e ghiaccio.",
+      "alergenos": "Contiene alcol.",
+      "calorias": "180 kcal"
+    }
+  },
+  "__collections__": {
+    "likes": {},
+    "comentarios": {}
+  }
+},
+"28": {
+  "id": 28,
+  "nombre": "Mojito de hierbabuena",
+  "precio": 6,
+  "video": "20250616_2024_Mojito Craftsmanship_simple_compose_01jxwzqvw0fngbtep5xj9k1ry1.mp4",
+  "categoria": "Bebidas",
+  "traducciones": {
+    "es": {
+      "nombre": "Mojito de hierbabuena",
+      "descripcion": "Cóctel cubano con ron, lima, azúcar y hierbabuena.",
+      "detalles": "Refrescante y aromático, servido con hielo picado.",
+      "alergenos": "Contiene alcohol.",
+      "calorias": "200 kcal"
+    },
+    "en": {
+      "nombre": "Mint Mojito",
+      "descripcion": "Cuban cocktail with rum, lime, sugar, and mint.",
+      "detalles": "Refreshing and aromatic, served with crushed ice.",
+      "alergenos": "Contains alcohol.",
+      "calorias": "200 kcal"
+    },
+    "fr": {
+      "nombre": "Mojito à la menthe",
+      "descripcion": "Cocktail cubain avec rhum, citron vert, sucre et menthe.",
+      "detalles": "Rafraîchissant et aromatique, servi avec de la glace pilée.",
+      "alergenos": "Contient de l’alcool.",
+      "calorias": "200 kcal"
+    },
+    "it": {
+      "nombre": "Mojito alla menta",
+      "descripcion": "Cocktail cubano con rum, lime, zucchero e menta.",
+      "detalles": "Rinfrescante e aromatico, servito con ghiaccio tritato.",
+      "alergenos": "Contiene alcol.",
+      "calorias": "200 kcal"
+    }
+  },
+  "__collections__": {
+    "likes": {},
+    "comentarios": {}
+  }
+}
+          }
+        }
+      }
+    }
+  }
+}

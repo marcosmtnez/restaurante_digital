@@ -1,25 +1,44 @@
-import logo from './logo.svg';
-import './App.css';
+import {  useState } from "react";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import Navbar from "./components/Navbar";
+import Platos from "./components/Platos";
+import Pedido from "./pages/Pedido";
+import NotificacionCarrito from "./components/NotificacionCarrito";
+import PantallaBienvenida from "./components/PantallaBienvenida";
+import "./App.css";
 
-function App() {
+function AppContent() {
+  const [categoria, setCategoria] = useState("Entrantes");
+  const [mostrarBienvenida, setMostrarBienvenida] = useState(true);
+
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="app-wrapper">
+      {mostrarBienvenida && (
+        <PantallaBienvenida onSalir={() => setMostrarBienvenida(false)} />
+      )}
+
+      <NotificacionCarrito />
+
+      <div className="body-container">
+        <Navbar categoria={categoria} setCategoria={setCategoria} />
+        <Routes>
+          <Route path="/" element={<Platos categoria={categoria} />} />
+          <Route path="/pedido" element={<Pedido />} />
+        </Routes>
+      </div>
     </div>
   );
 }
 
+function App() {
+  return (
+    <Router>
+      <AppContent />
+    </Router>
+  );
+}
+
 export default App;
+
+
